@@ -1,2 +1,2 @@
-# escAPIst - temporary name
-[Python][API][JSON] My first attempt to using Youtube API and JSON with Python. Eventually I want to write a code that add songs from the selected Spotify playlist to the selected Youtube playlist and vice versa
+# SpotiTube App
+[Python] My first attempt to using Youtube and Spotify APIs, and JSON with Python. App includes many functionalities related to the management of the user's account, its playlists and songs on both platforms
